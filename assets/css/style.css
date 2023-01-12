@@ -14,3 +14,11 @@ header .logo{
   font-size: 25px;
   font-weight: bold;
 }
+
+header .menu{
+  width: 30px;
+  height: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
