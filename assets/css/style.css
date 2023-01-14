@@ -36,3 +36,13 @@ header .menu-line{
   display: flex;
   height: 100vh;
 }
+
+.container .leftside{
+  flex: 1;
+  background-color: #ff0000;
+}
+
+.container .rightside{
+  flex: 1;
+  background-color: #0000ff;
+}
