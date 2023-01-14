@@ -39,10 +39,17 @@ header .menu-line{
 
 .container .leftside{
   flex: 1;
-  background-color: #ff0000;
+  background-color: #3B576D;
 }
 
 .container .rightside{
   flex: 1;
-  background-color: #0000ff;
+  background-color: #ffffff;
+}
+
+footer{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
