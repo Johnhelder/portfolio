@@ -40,6 +40,8 @@ header .menu-line{
 .container .leftside{
   flex: 1;
   background-color: #3B576D;
+  display: flex;
+  align-items: center;
 }
 
 .container .rightside{
