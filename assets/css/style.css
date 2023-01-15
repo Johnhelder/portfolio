@@ -44,7 +44,9 @@ header .menu-line{
 
 .container .rightside{
   flex: 1;
-  background-color: #ffffff;
+  background-image: url(../images/hero.jpg);
+  background-size: 100% auto;
+  background-position: top;
 }
 
 footer{
