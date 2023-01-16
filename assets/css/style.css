@@ -67,6 +67,17 @@ header .menu-line{
   font-size: 80px;
 }
 
+.container .info .buttons a{
+  display: inline-block;
+  background-color: #fff;   
+  color: #3B576D;
+  padding: 20px 40px;
+  font-size: 16px;
+  text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
 footer{
   position: fixed;
   left: 0;
