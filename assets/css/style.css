@@ -65,6 +65,8 @@ header .menu-line{
 .container .info .name{
   font-weight: bold;
   font-size: 80px;
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
 
 .container .info .buttons a{
@@ -76,6 +78,8 @@ header .menu-line{
   text-decoration: none;
     text-transform: uppercase;
     font-weight: bold;
+    box-shadow: 0px 0px 10px #333;
+    border-radius: 5px;
 }
 
 footer{
