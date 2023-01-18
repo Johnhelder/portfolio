@@ -78,8 +78,14 @@ header .menu-line{
   text-decoration: none;
     text-transform: uppercase;
     font-weight: bold;
-    box-shadow: 0px 0px 10px #333;
+    box-shadow: 0px 0px 10px #111;
     border-radius: 5px;
+    margin-left: 10px;
+}
+
+.container .info .buttons a.light{
+  color: #fff;
+  background-color: #3B576D;
 }
 
 footer{
