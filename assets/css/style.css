@@ -88,6 +88,10 @@ header .menu-line{
   background-color: #3B576D;
 }
 
+.container .info .buttons a:hover{
+  opacity: 0.7;
+}
+
 footer{
   position: fixed;
   left: 0;
