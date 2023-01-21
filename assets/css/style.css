@@ -102,3 +102,9 @@ footer{
   color: #fff;
   font-size: 13px;
 }
+
+@media (max-width: 850px) {
+  .container{
+    flex-direction: column;
+  }
+}
