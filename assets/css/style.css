@@ -17,6 +17,7 @@ header{
 header .logo{
   font-size: 25px;
   font-weight: bold;
+  color: #fff;
 }
 
 header .menu{
@@ -97,4 +98,6 @@ footer{
   left: 0;
   right: 0;
   bottom: 0;
+  padding: 20px;
+  color: #fff;
 }
