@@ -108,6 +108,10 @@ footer{
     position: initial;
     background-color: #3B576D;
   }
+
+  header .menu-line{
+    background-color: #fff;
+  }
   .container{
     flex-direction: column;
   }
