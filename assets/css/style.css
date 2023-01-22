@@ -118,4 +118,12 @@ footer{
   .container .leftside{
     flex: none;
   }
+  .container .leftside{ 
+    flex: none;
+    padding: 30px 20px;    
+    justify-content: center;
+    align-items: center;
+  }
+   
+  
 }
