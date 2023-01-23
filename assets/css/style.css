@@ -139,4 +139,9 @@ footer{
   .container .leftside .info .name{
     font-size: 50px;
   }
+  .container .leftside .info .buttons a{
+    display: block;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
 }
