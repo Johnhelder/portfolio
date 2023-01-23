@@ -116,7 +116,7 @@ footer{
     flex-direction: column;
   }
   .container .leftside{
-    flex: none;
+    flex: none; 
   }
   .container .leftside{ 
     flex: none;
@@ -127,6 +127,10 @@ footer{
   .container .info .name{
     font-size: 45px;
   }
-   
+   footer{
+    position: initial;
+    color: #333;
+    font-size: 16px;
+   }
   
 }
